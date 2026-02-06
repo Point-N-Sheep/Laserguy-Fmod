@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{403a5e66-aec6-4ce9-a7f2-2714e5be987c}">
+		<property name="name">
+			<value>Tension</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6f78b903-859c-4cbd-a739-9c07efc6fefa}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e555dae2-77f8-4ca6-9527-7eee7103f130}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e555dae2-77f8-4ca6-9527-7eee7103f130}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{42311af9-2846-465e-9841-bc2a18d7e655}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{42311af9-2846-465e-9841-bc2a18d7e655}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="speedAscending">
+			<value>0.38999998569488525</value>
+		</property>
+	</object>
+</objects>
