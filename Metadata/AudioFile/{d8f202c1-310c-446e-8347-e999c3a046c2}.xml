@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d8f202c1-310c-446e-8347-e999c3a046c2}">
 		<property name="assetPath">
-			<value>Musics/Theme 01/Theme 01 Stems/Laser_Guy_Theme_01_Part_B_Fx.wav</value>
+			<value>Music/Theme 01/Theme 01 Stems/Laser_Guy_Theme_01_Part_B_Fx.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
