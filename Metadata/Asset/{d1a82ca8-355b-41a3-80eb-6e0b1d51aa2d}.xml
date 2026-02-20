@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{d1a82ca8-355b-41a3-80eb-6e0b1d51aa2d}">
+		<property name="assetPath">
+			<value>Sfx/Props/Break/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3aa6e3a-bf56-438c-aeab-bba01f610638}</destination>
+		</relationship>
+	</object>
+</objects>

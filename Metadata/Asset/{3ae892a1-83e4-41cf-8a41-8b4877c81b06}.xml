@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{3ae892a1-83e4-41cf-8a41-8b4877c81b06}">
+		<property name="assetPath">
+			<value>Sfx/Props/Break/Laser Metal break sfx/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3aa6e3a-bf56-438c-aeab-bba01f610638}</destination>
+		</relationship>
+	</object>
+</objects>

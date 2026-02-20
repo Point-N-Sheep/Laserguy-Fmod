@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3fa85c45-2f67-416c-81f6-a9f185135883}">
+		<property name="assetPath">
+			<value>Sfx/Props/Break/Laser Metal break sfx/SFX_Prop_break_metal_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3696825396825396</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3aa6e3a-bf56-438c-aeab-bba01f610638}</destination>
+		</relationship>
+	</object>
+</objects>
