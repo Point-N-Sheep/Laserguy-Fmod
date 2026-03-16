@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ecb9b23d-60f7-4b5c-baa9-3c2af139e90f}">
 		<property name="name">
-			<value>Laser_Lstart</value>
+			<value>Laser_Start</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
