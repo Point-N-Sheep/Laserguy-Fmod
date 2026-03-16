@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bb454b2f-35c1-46e8-9671-d6262df02d55}">
 		<property name="name">
-			<value>SFX_Prop_hit_wood</value>
+			<value>Prop_Wood_Hit</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b33d21c9-7b02-438d-838e-579ac3f57363}</destination>
+			<destination>{97164035-3763-44f5-b480-ff3256bccb38}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{c64c76fe-4635-4f33-8d01-2403b2f2878f}</destination>

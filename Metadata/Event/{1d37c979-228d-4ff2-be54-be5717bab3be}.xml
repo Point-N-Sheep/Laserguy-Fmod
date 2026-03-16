@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1d37c979-228d-4ff2-be54-be5717bab3be}">
 		<property name="name">
-			<value>SFX_Prop_break_wood</value>
+			<value>Prop_Wood_Break</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b33d21c9-7b02-438d-838e-579ac3f57363}</destination>
+			<destination>{97164035-3763-44f5-b480-ff3256bccb38}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{3815e4f3-d9c2-42c9-9de0-d34d5555f20f}</destination>

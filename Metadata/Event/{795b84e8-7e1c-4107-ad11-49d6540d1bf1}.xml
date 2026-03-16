@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{795b84e8-7e1c-4107-ad11-49d6540d1bf1}">
 		<property name="name">
-			<value>SFX_Prop_hit_general</value>
+			<value>Prop_General_Hit</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b33d21c9-7b02-438d-838e-579ac3f57363}</destination>
+			<destination>{97164035-3763-44f5-b480-ff3256bccb38}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{c1504fe0-eb6f-4b50-bc1e-e687c8ab1e65}</destination>

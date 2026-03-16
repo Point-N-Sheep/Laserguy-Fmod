@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8c615d4f-3bca-47ca-98fb-573cf49ed9a7}">
 		<property name="name">
-			<value>SFX_Prop_break_general</value>
+			<value>Prop_General_Break</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b33d21c9-7b02-438d-838e-579ac3f57363}</destination>
+			<destination>{97164035-3763-44f5-b480-ff3256bccb38}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{919f3d4e-7d6c-4c04-8e68-e409c1c742ca}</destination>
