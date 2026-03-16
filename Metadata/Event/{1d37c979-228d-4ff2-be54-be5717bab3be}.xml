@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1d37c979-228d-4ff2-be54-be5717bab3be}">
 		<property name="name">
-			<value>Prop_Wood_Break</value>
+			<value>Wood_Break</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
