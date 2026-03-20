@@ -5,13 +5,13 @@
 			<value>Green</value>
 		</property>
 		<property name="name">
-			<value>Angry</value>
+			<value>NPC_Generic_Gibberish_Angry_01</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{24d183a9-1f20-4d9f-91cf-0a2e260c6969}</destination>
+			<destination>{48f10add-a5cf-4d78-b4e2-fc3c6a9139c9}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{be550e30-a6eb-491d-b1c2-9368948ccd0b}</destination>
