@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{3208a893-2f3f-42e8-b8e3-0f3ddfa7e8b5}">
 		<property name="name">
-			<value>HasLaser</value>
+			<value>LevelProgression</value>
 		</property>
 		<relationship name="folder">
 			<destination>{6f78b903-859c-4cbd-a739-9c07efc6fefa}</destination>
@@ -16,11 +16,14 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>2</value>
+			<value>5</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>False</value>
-			<value>True</value>
+			<value>Intro</value>
+			<value>PreLaser</value>
+			<value>Laser</value>
+			<value>Climax</value>
+			<value>PostLaser</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
