@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b57a8b89-898a-4968-be3d-13d4e430d557}">
 		<property name="name">
-			<value>CD Shard collection 01</value>
+			<value>Cd_Shard_Collect_1</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
