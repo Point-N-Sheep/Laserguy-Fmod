@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3b702f07-4c27-4dec-bd68-eb45aae6a5b4}">
 		<property name="name">
-			<value>TV_Printer_Hit</value>
+			<value>Printer_Hit</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

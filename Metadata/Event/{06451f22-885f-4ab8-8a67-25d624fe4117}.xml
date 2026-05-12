@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{06451f22-885f-4ab8-8a67-25d624fe4117}">
 		<property name="name">
-			<value>Ballon_break_Multi</value>
+			<value>Balloon_Multi_Break</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
