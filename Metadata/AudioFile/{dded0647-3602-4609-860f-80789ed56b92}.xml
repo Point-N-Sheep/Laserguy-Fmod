@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{dded0647-3602-4609-860f-80789ed56b92}">
+		<property name="assetPath">
+			<value>Sfx/Props/Plants/Plants_break_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4780045351473923</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3aa6e3a-bf56-438c-aeab-bba01f610638}</destination>
+		</relationship>
+	</object>
+</objects>
