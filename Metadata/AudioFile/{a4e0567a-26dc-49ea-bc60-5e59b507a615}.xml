@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{41b16216-d095-4819-acf7-c6a7aa3930f3}">
+	<object class="AudioFile" id="{a4e0567a-26dc-49ea-bc60-5e59b507a615}">
 		<property name="assetPath">
-			<value>Sfx/Props/Keyboard/[SFX] Prop Keyboard break 03.wav</value>
+			<value>Sfx/Props/Keyboard/[SFX] Prop Keyboard break 01_V2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>2.4455782312925169</value>
+			<value>2.1912244897959186</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f3aa6e3a-bf56-438c-aeab-bba01f610638}</destination>
