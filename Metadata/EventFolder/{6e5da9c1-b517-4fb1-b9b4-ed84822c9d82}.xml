@@ -8,7 +8,7 @@
 			<value>Plants</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b14dc09d-b22b-4d7f-927d-142b5675e278}</destination>
+			<destination>{97164035-3763-44f5-b480-ff3256bccb38}</destination>
 		</relationship>
 	</object>
 </objects>
