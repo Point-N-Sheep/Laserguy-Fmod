@@ -105,7 +105,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{4139679c-cd63-4157-a363-13b44a61f175}">
 		<property name="volume">
-			<value>-6</value>
+			<value>-8</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
