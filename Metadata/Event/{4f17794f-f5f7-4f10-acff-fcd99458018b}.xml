@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4f17794f-f5f7-4f10-acff-fcd99458018b}">
 		<property name="name">
-			<value>Level_Complete_Celebration</value>
+			<value>Chapter_Complete_Celebration</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
