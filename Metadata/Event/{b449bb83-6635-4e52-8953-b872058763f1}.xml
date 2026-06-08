@@ -5,7 +5,7 @@
 			<value>Green</value>
 		</property>
 		<property name="name">
-			<value>Pickup_Laser_Supression</value>
+			<value>Start</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
