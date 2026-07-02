@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{35b61f34-0fbc-4445-9a86-a5274112144d}">
+		<property name="name">
+			<value>Tall White Aliens</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6fe4c0e3-4fa8-4540-b6d8-50873babcefb}</destination>
+		</relationship>
+	</object>
+</objects>
