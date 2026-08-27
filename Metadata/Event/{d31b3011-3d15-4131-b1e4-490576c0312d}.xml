@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d31b3011-3d15-4131-b1e4-490576c0312d}">
 		<property name="name">
-			<value>FullScree_crt_click</value>
+			<value>Checkmark_Toggle</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
