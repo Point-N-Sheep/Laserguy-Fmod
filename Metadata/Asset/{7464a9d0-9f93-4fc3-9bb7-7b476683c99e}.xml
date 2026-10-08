@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="EncodableAsset" id="{89e022e7-bf1b-4193-9092-389a0b9a01e4}">
+	<object class="EncodableAsset" id="{7464a9d0-9f93-4fc3-9bb7-7b476683c99e}">
 		<property name="assetPath">
-			<value>Sfx/Stalker Screams/</value>
+			<value>Sfx/Gibberish/Bryan/Signature/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f3aa6e3a-bf56-438c-aeab-bba01f610638}</destination>

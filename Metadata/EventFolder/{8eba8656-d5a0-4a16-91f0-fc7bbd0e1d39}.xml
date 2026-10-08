@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{8eba8656-d5a0-4a16-91f0-fc7bbd0e1d39}">
+		<property name="name">
+			<value>Lap break Stage 3</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b33d21c9-7b02-438d-838e-579ac3f57363}</destination>
+		</relationship>
+	</object>
+</objects>
