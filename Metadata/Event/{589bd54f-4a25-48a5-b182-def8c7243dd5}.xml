@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{589bd54f-4a25-48a5-b182-def8c7243dd5}">
 		<property name="name">
-			<value>Lap Break</value>
+			<value>Lamp_Break</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{8eba8656-d5a0-4a16-91f0-fc7bbd0e1d39}</destination>
+			<destination>{50ec32e5-1dd3-4d95-b2e5-cf18c5ea9249}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{d8f1382d-6047-4aba-a1b8-31c17427205b}</destination>
