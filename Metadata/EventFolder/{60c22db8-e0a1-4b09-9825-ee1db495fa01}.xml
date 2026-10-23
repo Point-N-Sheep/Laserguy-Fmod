@@ -5,7 +5,7 @@
 			<value>Kart Hover</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b33d21c9-7b02-438d-838e-579ac3f57363}</destination>
+			<destination>{b14dc09d-b22b-4d7f-927d-142b5675e278}</destination>
 		</relationship>
 	</object>
 </objects>
