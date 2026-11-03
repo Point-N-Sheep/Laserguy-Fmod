@@ -5,7 +5,7 @@
 			<value>Theme_LV_03_Backrooms</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5450342b-2977-4f6d-8397-76def145ae8b}</destination>
@@ -136,7 +136,6 @@
 	<object class="MixerBusEffectChain" id="{ba7b1812-0ddb-402e-b169-d03180adfcd5}">
 		<relationship name="effects">
 			<destination>{c837497d-59e4-4767-b4cf-4a6f67cd61d9}</destination>
-			<destination>{4266bde0-0ca1-4054-8646-1a63f8ae57ff}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2893746b-d554-488c-828f-f49d4242362b}" />
@@ -165,6 +164,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{d7ee54c3-5e1a-49a0-8bca-bd8a48444b4d}" />
 	<object class="MixerBusFader" id="{c837497d-59e4-4767-b4cf-4a6f67cd61d9}" />
-	<object class="SpatialiserEffect" id="{4266bde0-0ca1-4054-8646-1a63f8ae57ff}" />
 	<object class="MixerBusFader" id="{d82f37b5-7ba6-4ede-8581-b2141a2e4804}" />
 </objects>
